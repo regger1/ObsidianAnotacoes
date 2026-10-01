@@ -17,4 +17,4 @@ As notas são estruturadas em formato Markdown puro e sincronizadas automaticame
 ### Como clonar em uma nova máquina
 
 ```bash
-git clone git@github.com:regger1/ObsidianAnotacoes.git
+git clone https://github.com/regger1/ObsidianAnotacoes.git
